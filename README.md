@@ -1,5 +1,7 @@
 # Lumina Dental Studio
 
+![Lumina Dental Studio](./Lumina_Dental.png)
+
 A modern, high-performance web application for **Lumina Dental Studio**, delivering a patient-first dental experience with interactive smile transformations, multi-step appointment scheduling, boutique sensory comfort amenities, and multi-channel concierge communication.
 
 ---
