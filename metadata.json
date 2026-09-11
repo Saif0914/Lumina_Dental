@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Dental Studio",
+  "description": "Premium modern family and cosmetic dental care offering gentle dentistry, radiant smile transformations, and seamless patient booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
